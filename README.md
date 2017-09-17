@@ -3,6 +3,8 @@
 >this is a simple webpage purely using bootstrap which also adapt for mobile terminal
 
 
+[预览地址](https://80666881.github.io/Bootstrap-webpage/)
+
 ### index.html
 ![](media/15056416290658/15056430259342.jpg)
 
